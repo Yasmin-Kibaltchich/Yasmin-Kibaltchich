@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=130&section=header"/>
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=FF1493&center=true&vCenter=false&width=1500&height=100&duration=6000&lines=Olá+eu+sou+a+Yasmin,+e+estou+cursando+análise+e+desenvolvimento+de+sistemas...;+Hello+I'm+Yasmin+and+I'm+study+analysis+and+sistems+development..." />
 </h1>
@@ -11,7 +13,9 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yasmin-Kibaltchich&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Yasmin-Kibaltchich&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=dracula&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: | 
 
+
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=6000&color=FF1493&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" /></a></h3>
+
 <p align="center">
 <p align="center">
 <div style="display: flex; align-items: flex-start; align: center">
@@ -54,7 +58,6 @@
 </table>
 <br><br>
 </div>
-
 <div align="center">
   <a href="https://github.com/Yasmin-Kibaltchich" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/yaslins" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -62,29 +65,23 @@
   <a href = "mailto:yasminkibaltchich@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/yas_lins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div> 
-  
-
   <br><p align="centre"><b>Visitas na conta</b></p>  
 <p align="center"><img align="center" theme="dracula" src="https://profile-counter.glitch.me/{Yasmin-Kibaltchich}/count.svg" /></p> 
 <br>
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yasmin-Kibaltchich/Yasmin-Kibaltchich/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: pink)" srcset="https://raw.githubusercontent.com/Yasmin-Kibaltchich/Yasmin-Kibaltchich/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yasmin-Kibaltchich/Yasmin-Kibaltchich/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-
-
-
-<details align="left">
+<details align="center">
   <summary></summary> 
- 
   - Badges by <a href="https://shields.io/">shields.io</a>.
   - GitHub Stats by <a href="https://github.com/Yasmin-Kibaltchich/github-readme-stats">Yasmin-Kibaltchich</a>.
   - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
  
-  <div align="right">Made with 💜 by <a href="https://github.com/Yasmin-Kibaltchich">Yasmin-Kibaltchich</a>.</div>
+  <div align="left">Made with 💜 by <a href="https://github.com/Yasmin-Kibaltchich">Yasmin-Kibaltchich</a>.</div>
 
 </details>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=130&section=footer"/>
