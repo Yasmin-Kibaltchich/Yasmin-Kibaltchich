@@ -1,4 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=130&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="250" alt="coding-time" src="welcome.gif">
+
+</div> 
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=FF1493&center=true&vCenter=false&width=1500&height=100&duration=6000&lines=Olá+eu+sou+a+Yasmin,+e+estou+cursando+análise+e+desenvolvimento+de+sistemas...;+Hello+I'm+Yasmin+and+I'm+study+analysis+and+sistems+development..." />
@@ -96,4 +101,4 @@
   <div align="left">Made with 💜 by <a href="https://github.com/Yasmin-Kibaltchich">Yasmin-Kibaltchich</a>.</div>
 
 </details>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
