@@ -6,12 +6,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 <div>
   <a href="https://github.com/Yasmin-Kibaltchich">
+</div>  
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yasmin-Kibaltchich&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yasmin-Kibaltchich&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yasmin-Kibaltchich&theme=dracula) |
 | :-: | :-: | :-: |  
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yasmin-Kibaltchich&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Yasmin-Kibaltchich&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=dracula&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: | 
+
+
+| ![](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif) | ![](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif) |
+| :-: | :-: | 
+
+
 
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=6000&color=FF1493&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" /></a></h3>
