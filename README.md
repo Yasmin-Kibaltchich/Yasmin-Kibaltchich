@@ -87,7 +87,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yasmin-Kibaltchich/Yasmin-Kibaltchich/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-<details align="center">
+<details align="left">
   <summary></summary> 
   - Badges by <a href="https://shields.io/">shields.io</a>.
   - GitHub Stats by <a href="https://github.com/Yasmin-Kibaltchich/github-readme-stats">Yasmin-Kibaltchich</a>.
