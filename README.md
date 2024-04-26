@@ -71,8 +71,13 @@
   <a href="https://www.linkedin.com/in/yasminkibaltchich/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:yasminkibaltchich@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/yas_lins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div> 
-  <br><p align="centre"><b>Visitas na conta</b></p>  
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="50" alt="coding-time" src="pacman.gif">
+
+</div> 
+  <br><p align="center"><b>Visitas na conta</b></p>  
 <p align="center"><img align="center" theme="dracula" src="https://profile-counter.glitch.me/{Yasmin-Kibaltchich}/count.svg" /></p> 
 <br>
 </div>
