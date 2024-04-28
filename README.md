@@ -47,6 +47,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60" alt="SQLServer" />
       <br>SQLServer
     </td>   
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="icon" width="60" height="60" />
+      <br>SQLite
     <td align="center"  width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
       <br>Python
